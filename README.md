@@ -4,11 +4,16 @@
 # Plant Disease Detection using Computer Vision 🌿🔍
 Welcome to the Plant Disease Detection project repository! This project, conducted at Bournemouth University from February to May 2023, leverages Computer Vision and Object Detection to achieve precise identification and classification of plant diseases.
 
-## Key Features
+## Key Features:
+
 Framework: Implemented YOLOv5 and VOC for efficient object detection, tailored for complex plant disease patterns.
+
 Model Training: Trained the model with PyTorch, ensuring precise disease detection across diverse images.
+
 Data Augmentation: Rigorous data processing and augmentation for improved model performance and adaptability.
+
 Spot Detection: Integrated spot detection using VOC to enhance specific disease manifestation identification.
+
 Getting Started
 Clone the Repository:
 
