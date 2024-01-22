@@ -6,13 +6,13 @@ Welcome to the Plant Disease Detection project repository! This project, conduct
 
 ## Key Features:
 
-Framework: Implemented YOLOv5 and VOC for efficient object detection, tailored for complex plant disease patterns.
+1. Framework: Implemented YOLOv5 and VOC for efficient object detection, tailored for complex plant disease patterns.
 
-Model Training: Trained the model with PyTorch, ensuring precise disease detection across diverse images.
+2. Model Training: Trained the model with PyTorch, ensuring precise disease detection across diverse images.
 
-Data Augmentation: Rigorous data processing and augmentation for improved model performance and adaptability.
+3. Data Augmentation: Rigorous data processing and augmentation for improved model performance and adaptability.
 
-Spot Detection: Integrated spot detection using VOC to enhance specific disease manifestation identification.
+4. Spot Detection: Integrated spot detection using VOC to enhance specific disease manifestation identification.
 
 Getting Started
 Clone the Repository:
